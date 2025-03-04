@@ -1,4 +1,3 @@
-
 # 👋 Hi, I’m Rakshitha R (@rrakshithaa)  
 
 ## 🚀 About Me  
