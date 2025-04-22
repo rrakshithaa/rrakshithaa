@@ -43,11 +43,10 @@ I am a **QA Automation Engineer and IT Support Specialist** with a passion for *
 ✅ **Web Automation for Wireless Router Configuration**  
 
 ## 💬 Let’s Connect!  
-📧 Email: [[![image](https://github.com/user-attachments/assets/d285a66e-7dcb-4a1d-8127-1c48661d9bdc) RAKSHITHA.R
-](mailto\:rakshithaa730@gmail.com)]
+📧 Email: [[![image](https://github.com/user-attachments/assets/d285a66e-7dcb-4a1d-8127-1c48661d9bdc) RAKSHITHA.R](mailto\:rakshithaa730@gmail.com)]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💼 LinkedIn: [[![image](https://github.com/user-attachments/assets/22626c2c-1876-4874-9213-a4c0efb230b6) rakshitha-r]](https://www.linkedin.com/in/rakshitha-r-737070294/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 GitHub: [![image](https://github.com/user-attachments/assets/2bcf3746-561c-4b28-82ba-679e94db45f5) rrakshithaa](https://github.com/rrakshithaa)            
 
-💼 LinkedIn: [[![image](https://github.com/user-attachments/assets/22626c2c-1876-4874-9213-a4c0efb230b6) rakshitha-r]](https://www.linkedin.com/in/rakshitha-r-737070294/)  
-🔗 GitHub: [![image](https://github.com/user-attachments/assets/2bcf3746-561c-4b28-82ba-679e94db45f5) rrakshithaa](https://github.com/rrakshithaa)
+
+
 
 ## 🎯 Fun Fact  
 I enjoy exploring **network security concepts**, writing **automation scripts**, and **solving technical challenges**. 🚀  
