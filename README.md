@@ -11,7 +11,7 @@ I am a **QA Automation Engineer and IT Support Specialist** with a passion for *
 - **🛠️ Software Testing & QA:**  
   - Manual & automated testing using **Selenium WebDriver**.  
   - **Test case design, bug tracking, and debugging** to improve software quality.  
-  - Familiar with tools like **Bugzilla** for defect management.  
+  - Familiar with tools like **JIRA** **Bugzilla** for defect management.  
 
 - **📜 Python Development & Automation:**  
   - Writing efficient scripts for **file operations, regex, subprocess handling, exception management, logging**, and **debugging**.  
